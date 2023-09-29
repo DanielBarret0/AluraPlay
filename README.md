@@ -1,6 +1,6 @@
-# Nome do meu projeto
+# Alura Play
 
-Rápida descrição do objetivo de fazer esse projeto
+Alura Play é um site onde postamos e deixamos salvo videos do canal do youtube Alura com bastante estilo e facil de usar!
 
 | :placard: Vitrine.Dev |  [Minha Vitrine Dev](https://cursos.alura.com.br/vitrinedev/danielbarreto)    |
 | -------------  | --- |
@@ -11,11 +11,17 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Com esse curso aprendi: 
+
+- Utilizar propriedades do Flexbox na prática construindo um projeto responsivo;
+- Alterar o eixo de itens para horizontal ou vertical;
+- Aplicar vídeos de forma responsiva utilizando propriedades Flexbox;
+- Características do Flexbox;
+- Integre as propriedades Flexbox com outras propriedades CSS.
 
 ## ⭐ Layout completo 
 
-![Layout Completo]()
+![Layout Completo](https://github.com/DanielBarret0/AluraPlay/blob/main/img/Alura%20play.gif)
 
 # 🤯 Minha experiência
 
@@ -29,7 +35,7 @@ Esse foi um curso para conhecer algumas propriedades do flexbox e entender melho
 
 # 🖼️ Banner do VitrineDev
 <div align="center">
-<img src="#vitrinedev">
+<img src="https://github.com/DanielBarret0/AluraPlay/blob/main/img/Alura%20play.gif#vitrinedev">
 </div>
 
 # 🙋‍♂️ Autor
